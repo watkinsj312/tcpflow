@@ -1,0 +1,3 @@
+be13_api/pcap_fake.o: be13_api/pcap_fake.cpp ../config.h
+
+../config.h:
